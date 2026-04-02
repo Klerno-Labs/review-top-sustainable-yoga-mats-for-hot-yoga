@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-top-sustainable-yoga-mats-for-hot-yoga/sitemap.xml
